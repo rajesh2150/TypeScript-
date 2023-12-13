@@ -41,3 +41,5 @@ function createElements<Type>(items:Type[]):Type[]{
 
 let numberArray=createElements<number>([10,20,30])
 let stringArray=createElements<string>(['a','b','c'])
+
+//these are the basic types in typescript
